@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_google_map/screens/convert_latlong/components/convert_single_widget.dart';
+import 'package:flutter_google_map/src/convert_latlong/components/convert_single_widget.dart';
 import 'package:geocoding/geocoding.dart';
 
 class ConvertLatLongToAddress extends StatefulWidget {

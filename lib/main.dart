@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_google_map/screens/custom_info_window/custom_marker_info_window.dart';
+import 'package:flutter_google_map/src/google_map_style/google_map_style_screen.dart';
+import 'package:flutter_google_map/src/network_image_marker/network_image_marker.dart';
 import 'package:location/location.dart';
 
 void main()async {
@@ -11,7 +12,6 @@ void main()async {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const CustomMarkerInfoWindow(),
+      home: const GoogleMapStyleScreen(),
     );
   }
 }
