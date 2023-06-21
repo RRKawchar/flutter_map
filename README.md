@@ -1,16 +1,8 @@
 # flutter_google_map
 
-A new Flutter project.
 
-## Getting Started
+### Google Map ways
+![Apple iPhone 11 Pro Max Presentation (2)](https://github.com/RRKawchar/flutter_map/assets/97376140/2c642d8b-a73e-4b83-936b-9fbf15c271a3)
+![Apple iPhone 11 Pro Max Presentation (4)](https://github.com/RRKawchar/flutter_map/assets/97376140/54e258a6-6ba8-47fc-b2f7-dbab1fb85f65)
+![Apple iPhone 11 Pro Max Presentation (3)](https://github.com/RRKawchar/flutter_map/assets/97376140/3ce47b77-2d95-46ca-b74d-3978a7106c58)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
