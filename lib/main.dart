@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_google_map/screens/user_current_location/user_current_location.dart';
+import 'package:flutter_google_map/screens/custom_info_window/custom_marker_info_window.dart';
 import 'package:location/location.dart';
 
 void main()async {
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const UserCurrentLocation(),
+      home: const CustomMarkerInfoWindow(),
     );
   }
 }
